@@ -2,6 +2,9 @@ Fitness DB
 
 A personal workout tracker that lets you store, organize, and view your favorite YouTube workouts using HarperDB and Streamlit. Tired of messy playlists and repetitive workouts? Build your own fitness dashboard. 
 
+Demo
+  - https://vimeo.com/1094425257/409a76bbc7?share=copy
+
 Features 
   - Add YouTube workouts by pasting a link 
   - View all workouts with title, channel, and duration 
